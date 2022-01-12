@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "834637567757",
+    "project_id": "petgrooming-f52fc",
+    "storage_bucket": "petgrooming-f52fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834637567757:android:4c01441a015818794ac244",
+        "android_client_info": {
+          "package_name": "com.example.petgrooming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834637567757-leia0ne8rq9ng2f7ipi687a80thrjens.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqD1_H9pArZI0wg7zZz26IWH5DtmPBxPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834637567757-leia0ne8rq9ng2f7ipi687a80thrjens.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
