@@ -1,16 +1,6 @@
-# petgrooming
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Pet Grooming Studio
+  In this app, pet owners can login / sign up and book appointments for their respective pets. 
+The app gets information such as name, breed and the required facilities that the user wants
+to book for their pets.Along with that they can book the date and time for the appointment 
+thereby making the process much easier than how it would be in person to book an appointment. 
+This project was developed using flutter-dart and firebase
